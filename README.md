@@ -1,8 +1,8 @@
 # The 2-SUM problem
 
-For an unsorted array _A_ of _n_ integers, and a target integer _t_, the goal is to determine whether or not there are two numbers _x_, _y_ in _A_ satisfying _x_ + _y_ = *t*².
+For an unsorted array _A_ of _n_ integers, and a target integer _t_, the goal is to determine whether or not there are two numbers _x_, _y_ in _A_ satisfying _x_ + _y_ = _t_ ².
 
-This problem can be solved by brute-force search - by trying all possibilities for _x_ and _y_ and checking if any of them work. That would be a quadratic-time algorithm (_O_ (*n*²)), since there are _n_ choices for _x_ and _y_.
+This problem can be solved by brute-force search - by trying all possibilities for _x_ and _y_ and checking if any of them work. That would be a quadratic-time algorithm (_O_ (_n_ ²)), since there are _n_ choices for _x_ and _y_.
 
 ## Hash table solution
 
